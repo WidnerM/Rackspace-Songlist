@@ -1,7 +1,7 @@
 # Rackspace-Songlist
 Utility to produce a list of all Rackspaces and each of the Songs/Songparts that utilize it
 
-Once installed, click on Extensions -> Rackspace-Songlist and GP's log window will open.
+Once installed, click on Extensions -> Rackspace-Songlist and GP's log window will open.  To install click on the Releases section over at the right, download the appropriate file (Mac or Windows) and put it in the appropriate folder. On Windows it’s generally C:\Users\Public\Documents\Gig Performer\Extensions. Mac is /Users/Shared/Gig Performer/Extensions.
 
 You then need to cycle through every Song and Songpart so that the extension can build a catalog which Rackspaces are used in which Songs and Songparts.  When it's done it will report them in the log window.  You can copy and paste that into a destination of your choice.  If you want it to be a cleaner copy you should hit "Clear" in the log window before clicking through all your songparts.
 
